@@ -1,0 +1,231 @@
+{
+  "users": [
+    {
+      "id": "3931",
+      "firstName": "Ignacio",
+      "lastName": "Nacho",
+      "email": "b4@gmail.com",
+      "password": "zxc"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "e7dd",
+      "userId": "3931",
+      "type": "Income",
+      "category": "Vegan",
+      "description": "lol",
+      "date": "2024-12-03T18:00:00.000Z",
+      "amount": 10000
+    },
+    {
+      "id": "ae3d",
+      "userId": "3931",
+      "type": "Expense",
+      "category": "Food & Beverages",
+      "description": "daily food",
+      "date": "2024-01-01T18:00:00.000Z",
+      "amount": 20000
+    },
+    {
+      "id": "812e",
+      "userId": "3931",
+      "type": "Expense",
+      "category": "House Rent",
+      "description": "Monthly rent",
+      "date": "2024-01-01T18:00:00.000Z",
+      "amount": 30000
+    },
+    {
+      "id": "5178",
+      "userId": "3931",
+      "type": "Expense",
+      "category": "Transportation",
+      "description": "Vehicles",
+      "date": "2024-01-04T18:00:00.000Z",
+      "amount": 20000
+    },
+    {
+      "id": "df1e",
+      "userId": "3931",
+      "type": "Income",
+      "category": "Technology",
+      "description": "lol",
+      "amount": 50000
+    },
+    {
+      "id": "e22a",
+      "userId": "3931",
+      "type": "Income",
+      "category": "Technology",
+      "description": "lol",
+      "date": "2024-01-09T18:00:00.000Z",
+      "amount": 50000
+    },
+    {
+      "id": "6d30",
+      "userId": "3931",
+      "type": "Expense",
+      "category": "Food & Beverages",
+      "description": "expenses",
+      "date": "2024-01-31T18:00:00.000Z",
+      "amount": 10000
+    },
+    {
+      "id": "629d",
+      "userId": "3931",
+      "type": "Expense",
+      "category": "House Rent",
+      "description": "lol",
+      "date": "2024-02-01T18:00:00.000Z",
+      "amount": 30000
+    },
+    {
+      "id": "9cb6",
+      "type": "Expense",
+      "category": "Life & Entertainment",
+      "description": "Visit India",
+      "date": "2024-02-07T18:00:00.000Z",
+      "amount": 30000
+    },
+    {
+      "id": "2015",
+      "userId": "3931",
+      "type": "Income",
+      "category": "Health Care",
+      "description": "lol",
+      "date": "2024-02-08T18:00:00.000Z",
+      "amount": 60000
+    },
+    {
+      "id": "febf",
+      "userId": "3931",
+      "type": "Expense",
+      "category": "Shopping",
+      "description": "lol",
+      "date": "2024-11-06T18:00:00.000Z",
+      "amount": 20000
+    },
+    {
+      "id": "fac3",
+      "type": "Expense",
+      "category": "Education",
+      "description": "Wah",
+      "date": "2024-11-13T18:00:00.000Z",
+      "amount": 10000
+    },
+    {
+      "id": "00b3",
+      "userId": "3931",
+      "type": "Expense",
+      "category": "Education",
+      "description": "ed",
+      "date": "2024-11-13T18:00:00.000Z",
+      "amount": 20000
+    },
+    {
+      "id": "fd92",
+      "userId": "3931",
+      "type": "Expense",
+      "category": "Energy",
+      "description": "bill",
+      "date": "2024-11-13T18:00:00.000Z",
+      "amount": 5000
+    },
+    {
+      "id": "7fe2",
+      "userId": "3931",
+      "type": "Income",
+      "category": "Technology",
+      "description": "Salary",
+      "date": "2024-11-14T18:00:00.000Z",
+      "amount": 70000
+    },
+    {
+      "id": "a7b5",
+      "type": "Expense",
+      "category": "Life & Entertainment",
+      "description": "QW3E",
+      "date": "2024-11-08T18:00:00.000Z",
+      "amount": 10000
+    }
+  ],
+  "budgets": [
+    {
+      "id": "b193",
+      "userId": "3931",
+      "category": "Food & Beverages",
+      "budget": 25000,
+      "date": "2024-01-02T18:00:00.000Z"
+    },
+    {
+      "id": "7570",
+      "userId": "3931",
+      "category": "House Rent",
+      "budget": 30000,
+      "date": "2024-01-02T18:00:00.000Z"
+    },
+    {
+      "id": "88bf",
+      "userId": "3931",
+      "category": "Transportation",
+      "budget": 22000,
+      "date": "2024-01-02T18:00:00.000Z"
+    },
+    {
+      "id": "2da7",
+      "category": "Life & Entertainment",
+      "budget": 40000,
+      "date": "2024-02-16T18:00:00.000Z"
+    },
+    {
+      "id": "1c4a",
+      "userId": "3931",
+      "category": "House Rent",
+      "budget": 40000,
+      "date": "2024-02-14T18:00:00.000Z"
+    },
+    {
+      "id": "956a",
+      "userId": "3931",
+      "category": "Shopping",
+      "budget": 40000,
+      "date": "2024-02-14T18:00:00.000Z"
+    },
+    {
+      "id": "4bdc",
+      "userId": "3931",
+      "category": "Shopping",
+      "budget": 40000,
+      "date": "2024-11-07T18:00:00.000Z"
+    },
+    {
+      "id": "cca2",
+      "userId": "3931",
+      "category": "Transportation",
+      "budget": 20000,
+      "date": "2024-11-07T18:00:00.000Z"
+    },
+    {
+      "id": "c476",
+      "userId": "3931",
+      "category": "Life & Entertainment",
+      "budget": 40000,
+      "date": "2024-11-07T18:00:00.000Z"
+    },
+    {
+      "id": "43c6",
+      "userId": "3931",
+      "category": "Electronics",
+      "budget": 20000,
+      "date": "2024-11-07T18:00:00.000Z"
+    },
+    {
+      "id": "817d",
+      "userId": "3931",
+      "category": "House Rent",
+      "budget": 30000,
+      "date": "2024-11-07T18:00:00.000Z"
+    }
+  ]
+}
